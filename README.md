@@ -3,7 +3,7 @@
 Dette projekt handler om at analysere brugte biler i Danmark og bruge maskinlæring til at gætte priser og finde mønstre i markedet.
 
 ### 1) Which are the most decisive factors, forming the price of a car?
-Alder og milage er de ting der betyder mest for prisen. Jo ældre bilen er og jo flere kilometer den har kørt jo mindre koster den. Motorstørrelsen spiller også en rolle men den er ikke lige så vigtig som de to andre ting.
+Alder og kilometer er de ting der betyder mest for prisen. Jo ældre bilen er og jo flere kilometer den har kørt jo mindre koster den. Motorstørrelsen spiller også en rolle men den er ikke lige så vigtig som de to andre ting.
 
 ### 2) Which make and model of a car is most popular, according this data source? Which are its technical characteristics?
 VW er det mærke der optræder mest i data med modeller som Golf og Passat. De har tit motorer på 1.6 eller 2.0 liter og er kendt for at være stabile biler i mellemklassen.
